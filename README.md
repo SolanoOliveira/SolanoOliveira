@@ -13,7 +13,6 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Solano](https://img.shields.io/badge/-solano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/solano-lima-oliveira-146b23188)](www.linkedin.com/in/solano-lima-oliveira-146b23188)
 [![Gmail Badge](https://img.shields.io/badge/-solano.oliveira@icomp.ufam.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solano.oliveira@icomp.ufam.edu.br)](mailto:solano.oliveira@icomp.ufam.edu.br)
 
 ![O trio de personagens principais do anime evangelion](https://i.kym-cdn.com/photos/images/original/000/646/808/77b.gif)
