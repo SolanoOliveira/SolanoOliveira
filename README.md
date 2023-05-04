@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
 <h3> 🤩 &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Ciência da computação** na <a href="https://www.ufam.edu.br/">Universidade Federa do Amazonas (UFAM)</a>.
