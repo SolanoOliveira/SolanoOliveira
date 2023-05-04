@@ -7,7 +7,7 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 - 💼 &nbsp; Trabalhando como **analista** no <a href="https://www.eldorado.org.br/">Instituto de Pesquisas Eldorado</a>
 - 🌱 &nbsp; Aprendendo mais sobre **tecnologias web**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Tecnologias </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,kotlin,html,css,javascript,linux,git,bootstrap,ps,ai,figma,xd&theme=light)](https://skillicons.dev)
 
