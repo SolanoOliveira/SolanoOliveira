@@ -1,7 +1,7 @@
 <h3> 🤩 &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Ciência da computação** na <a href="https://www.ufam.edu.br/">Universidade Federa do Amazonas (UFAM)</a>.
-- 📚 &nbsp; Dev e cientista 
+- 📚 &nbsp;  Dev e cientista 
 - 💼 &nbsp; Trabalhando como **analista** no <a href="https://www.eldorado.org.br/">Instituto de Pesquisas Eldorado</a>
 - 🌱 &nbsp; Aprendendo mais sobre **tecnologias web**.
 
