@@ -4,7 +4,6 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 
 - 🎓 &nbsp;Graduando em **Ciência da computação** na <a href="https://www.ufam.edu.br/">Universidade Federa do Amazonas (UFAM)</a>.
 - 📚 &nbsp;Desenvolvedor e cientista na área de engenharia de software
-- 💼 &nbsp;Trabalhando como **estagiário na área de modem** no <a href="https://www.eldorado.org.br/">Instituto de Pesquisas Eldorado</a>
 - 🌱 &nbsp;Aprendendo mais sobre **tecnologias web**.
 
 <h3> :rocket: &nbsp;Tecnologias </h3>
