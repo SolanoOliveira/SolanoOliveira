@@ -10,12 +10,6 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,kotlin,html,css,javascript,nodejs,express,mysql,linux,androidstudio,arduino,git,bootstrap,ps,ai,figma,xd&theme=light)](https://skillicons.dev)
 
-<h3>📕 Minhas publicações</h3>
-
-- &nbsp;<a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=yxsmo27sStU=&t=1">To the Next Level! an Exploratory Study on the Influence of User Experience on the Acceptance of a Gamified Learning Platform</a>.
-
-- &nbsp;<a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=/1fsDAHrjzo=&t=1">UXNator: A Tool for Recommending UX Evaluation Methods</a>.
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Gmail Badge](https://img.shields.io/badge/-solano.oliveira@icomp.ufam.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solano.oliveira@icomp.ufam.edu.br)](mailto:solano.oliveira@icomp.ufam.edu.br)
