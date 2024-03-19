@@ -17,5 +17,5 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SolanoOliveira?cardType=octocat&theme=jolly&preferLogin=false)](https://git.io/SolanoOliveira)
 
 <p align="center">
-    <img width="300" src="https://giffiles.alphacoders.com/172/172155.gif" alt="Material Bread logo">
+    <img width="500" src="https://giffiles.alphacoders.com/172/172155.gif" alt="Material Bread logo">
 </p>
