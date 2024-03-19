@@ -13,5 +13,3 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Gmail Badge](https://img.shields.io/badge/-solano.oliveira@icomp.ufam.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solano.oliveira@icomp.ufam.edu.br)](mailto:solano.oliveira@icomp.ufam.edu.br)
-
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
