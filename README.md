@@ -15,3 +15,5 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 [![Gmail Badge](https://img.shields.io/badge/-solano.oliveira@icomp.ufam.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solano.oliveira@icomp.ufam.edu.br)](mailto:solano.oliveira@icomp.ufam.edu.br)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SolanoOliveira?cardType=octocat&theme=jolly&preferLogin=false)](https://git.io/SolanoOliveira)
+
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F172155&psig=AOvVaw15jVpyLMWuqnSAClXVhAE9&ust=1710894195710000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjN_NeH_4QDFQAAAAAdAAAAABAE)
