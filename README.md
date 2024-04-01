@@ -14,7 +14,11 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 
 [![Gmail Badge](https://img.shields.io/badge/-solano.oliveira@icomp.ufam.edu.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solano.oliveira@icomp.ufam.edu.br)](mailto:solano.oliveira@icomp.ufam.edu.br)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SolanoOliveira?cardType=octocat&theme=jolly&preferLogin=false)](https://git.io/SolanoOliveira)
+<p align="center">
+  <a href="https://git.io/SolanoOliveira">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SolanoOliveira?cardType=octocat&theme=jolly&preferLogin=false" alt="My Awesome Stats">
+  </a>
+</p>
 
 <p align="center">
     <img width="500" src="https://giffiles.alphacoders.com/172/172155.gif" alt="Material Bread logo">
