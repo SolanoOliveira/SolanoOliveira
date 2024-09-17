@@ -6,7 +6,6 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 - 📚 &nbsp;Desenvolvedor e cientista na área de engenharia de software
 - 🌱 &nbsp;Aprendendo mais sobre **eletrônica**.
 
-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=solanooliveira=1)
 
 <h3> :rocket: &nbsp;Tecnologias </h3>
 
