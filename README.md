@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=👋 Olá, sou o Solano 👋%20capsule%20render)
+![Banner](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ol%C3%A1%2C%20sou%20o%20Solano&fontSize=70&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/SolanoOliveira">
