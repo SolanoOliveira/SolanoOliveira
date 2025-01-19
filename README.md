@@ -11,7 +11,11 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,kotlin,html,css,javascript,nodejs,express,mysql,linux,androidstudio,arduino,git,bootstrap,ps,ai,figma,xd&theme=light)](https://skillicons.dev)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lrhazm930pel9hd34k5fdt33o)
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=lrhazm930pel9hd34k5fdt33o" alt="Spotify Recently Played">
+</p>
+
 
 <p align="center">
   <a href="https://git.io/SolanoOliveira">
@@ -19,6 +23,3 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
   </a>
 </p>
 
-<p align="center">
-    <img width="500" src="https://giffiles.alphacoders.com/172/172155.gif" alt="Material Bread logo">
-</p>
