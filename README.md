@@ -18,7 +18,7 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,kotlin,html,css,javascript,nodejs,express,mysql,linux,androidstudio,arduino,git,bootstrap,ps,ai,figma,xd&theme=light)](https://skillicons.dev)
 
-<h3>🎶</h3>
+<h3>🎶 Solta o som</h3>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=lrhazm930pel9hd34k5fdt33o" alt="Spotify Recently Played">
 </p>
