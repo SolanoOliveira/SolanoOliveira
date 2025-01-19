@@ -3,25 +3,8 @@
 </p>
 
 <div align="center">
-  <h3 style="animation: colorChange 3s infinite;">Olá, sou o Solano</h3>
+  <h2 >Olá, sou o Solano</h3>
 </div>
-
-<style>
-@keyframes colorChange {
-  0% {
-    color: #FF69B4;
-  }
-  33% {
-    color: #FFD700;
-  }
-  66% {
-    color: #00FA9A;
-  }
-  100% {
-    color: #FF69B4;
-  }
-}
-</style>
 
 
 
