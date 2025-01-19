@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
-
-<h3> 👋 Olá, sou o Solano 👋</h3>
+![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=👋 Olá, sou o Solano 👋%20capsule%20render)
 
 <p align="center">
   <a href="https://git.io/SolanoOliveira">
