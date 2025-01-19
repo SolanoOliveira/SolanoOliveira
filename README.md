@@ -20,5 +20,6 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 
 
 <p align="center">
+  <h3>🎶</h3>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=lrhazm930pel9hd34k5fdt33o" alt="Spotify Recently Played">
 </p>
