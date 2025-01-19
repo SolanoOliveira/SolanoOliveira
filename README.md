@@ -1,4 +1,8 @@
-![Banner](https://capsule-render.vercel.app/api?type=wave&color=FF69B4&height=150&section=header&text=Ol%C3%A1%2C%20sou%20o%20Solano&fontSize=40)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FF69B4&height=150&section=header" alt="Banner">
+</p>
+
+<h3 align="center">Olá, sou o Solano</h3>
 
 
 
