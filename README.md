@@ -2,10 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=FF69B4&height=150&section=header" alt="Banner">
 </p>
 
-<h1 align="center">Olá, sou o Solano</h3>
+<div align="center">
+  <h3 style="animation: colorChange 3s infinite;">Olá, sou o Solano</h3>
+</div>
 
-
-
+<style>
+@keyframes colorChange {
+  0% {
+    color: #FF69B4;
+  }
+  33% {
+    color: #FFD700;
+  }
+  66% {
+    color: #00FA9A;
+  }
+  100% {
+    color: #FF69B4;
+  }
+}
+</style>
 
 
 
