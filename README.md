@@ -1,3 +1,5 @@
+<div align="center" style="background-image: url('https://htmlcolorcodes.com/assets/images/colors/pastel-pink-color-solid-background-1920x1080.png'); background-size: cover; padding: 20px; border-radius: 10px; color: #000;">
+
 <h3> 👋 Olá, sou o Solano 👋</h3>
 
 <p align="center">
@@ -22,3 +24,5 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=lrhazm930pel9hd34k5fdt33o" alt="Spotify Recently Played">
 </p>
+
+</div>
