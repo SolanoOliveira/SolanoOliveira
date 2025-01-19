@@ -1,4 +1,4 @@
-<h3> Olá, sou o Solano 👋</h3>
+<h3> 👋 Olá, sou o Solano 👋</h3>
 
 <p align="center">
   <a href="https://git.io/SolanoOliveira">
