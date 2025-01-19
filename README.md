@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=FF69B4&height=150&section=header" alt="Banner">
 </p>
 
-<h3 align="center">Olá, sou o Solano</h3>
+<h1 align="center">Olá, sou o Solano</h3>
 
 
 
