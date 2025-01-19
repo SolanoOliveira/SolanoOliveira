@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=wave&color=FF69B4&height=100&section=header&text=Ol%C3%A1%2C%20sou%20o%20Solano&fontSize=40)
+![Banner](https://capsule-render.vercel.app/api?type=wave&color=FF69B4&height=150&section=header&text=Ol%C3%A1%2C%20sou%20o%20Solano&fontSize=40)
 
 
 
