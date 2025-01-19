@@ -11,6 +11,8 @@ Como profissional, meu objetivo é utilizar a tecnologia para gerar inclusão em
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,kotlin,html,css,javascript,nodejs,express,mysql,linux,androidstudio,arduino,git,bootstrap,ps,ai,figma,xd&theme=light)](https://skillicons.dev)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lrhazm930pel9hd34k5fdt33o)
+
 <p align="center">
   <a href="https://git.io/SolanoOliveira">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SolanoOliveira?cardType=octocat&theme=jolly&preferLogin=false" alt="My Awesome Stats">
